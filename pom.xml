@@ -36,7 +36,6 @@
         <module>api</module>
         <module>nms</module>
         <module>plugin</module>
-        <module>v1_17_R1</module>
     </modules>
 
     <scm>
