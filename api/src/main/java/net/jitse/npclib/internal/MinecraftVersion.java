@@ -19,7 +19,8 @@ public enum MinecraftVersion {
     V1_15_R1,
     V1_16_R1,
     V1_16_R2,
-    V1_16_R3;
+    V1_16_R3,
+    v1_17_R1;
 
     public boolean isAboveOrEqual(MinecraftVersion compare) {
         return ordinal() >= compare.ordinal();
